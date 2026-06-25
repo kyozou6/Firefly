@@ -56,6 +56,20 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
+			{
+				name: "鸟之诗",
+				artist: "Lia",
+				url: "/assets/music/Lia - 鳥の詩 (鸟之诗)(short version).mp3",
+				cover: "/assets/music/cover/IMG_20260625_191714.jpg",
+				lrc: "",
+			},
+			{
+				name: "梦想歌",
+				artist: "Suara",
+				url: "/assets/music/Suara - 夢想歌 (梦想歌).mp3",
+				cover: "/assets/music/cover/003.jpg",
+				lrc: "",
+			},
 		],
 	},
 };
