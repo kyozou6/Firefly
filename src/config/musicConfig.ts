@@ -51,8 +51,8 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 		playlist: [
 			{
 				name: "不安定的神明",
-				artist: "AQUAPLUS",
-				url: "/assets/music/AQUAPLUS - 不安定な神様.mp3",
+				artist: "Suara",
+				url: "/assets/music/Suara - 不安定な神様 (不安定的神明).mp3",
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
